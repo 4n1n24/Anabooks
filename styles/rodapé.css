@@ -12,7 +12,8 @@ hr {
         display: flex;
         justify-content: space-around;
       }
-      .lista-rodapé{
+}
+ .lista-rodapé{
         display: flex;
         align-items: center;}
 
@@ -34,7 +35,6 @@ hr {
         .lista-rodapé{
             display: block;
         }
-      }
 
       .lista-rodapé{
         display: none;
